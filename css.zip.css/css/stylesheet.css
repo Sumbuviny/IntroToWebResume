@@ -54,6 +54,11 @@ nav {
 
 .navlist{
     list-style-type: none;
+    
+}
+
+.navlist a {
+  color: white;
 }
 
 #menu{
